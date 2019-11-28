@@ -33,13 +33,16 @@ $ vue add vuetify      ---> En el caso que quieran usar este popular framework
 
 ![](https://raw.githubusercontent.com/GinoAntonel/tutorialANT/master/imagenesTutorial/crearArchivo.png)
 
-3) Antes de empezar a programar nuestra Toolbar vamos a dejar en claro como funciona un archivo.vue. 
+3) Antes de empezar a programar nuestra Toolbar vamos a dejar en claro como funciona un archivo.vue.
+ 
 Este contiene 3 partes:
 
     **Template:** 
 En el template nosotros vamos a poner lo que querramos que se vea en la pagina.
+
     **Script:**
 En el script va la parte de JavaScript (funciones, etc).
+
     **Style:**
 En el Style va la parte de CSS (Colores, fuentes, alineacion, etc).
 
